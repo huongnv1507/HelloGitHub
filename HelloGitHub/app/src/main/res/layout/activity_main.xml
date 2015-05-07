@@ -8,9 +8,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
-
-
     <Button
         android:id="@+id/btnObjRequest"
         android:layout_width="wrap_content"
@@ -39,11 +36,11 @@
         android:layout_below="@id/btnArrayRequest"
         android:layout_marginTop="40px"
         android:padding="20dp" />
-=======
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
->>>>>>> remotes/origin/master
+
 
 </RelativeLayout>
